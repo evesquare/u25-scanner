@@ -1,0 +1,46 @@
+{
+    "FareInfo": [
+        {
+            "childFareName": "",
+            "childPrice": "",
+            "miles": "null",
+            "name": "スマートU25",
+            "price": "20300"
+        }
+    ],
+    "SegmentInfo": [
+        {
+            "arrivalAirport": "沖縄(那覇)",
+            "arrivalTime": "19:15",
+            "carrier": "ANA",
+            "depatureAirport": "東京(羽田)",
+            "depatureTime": "16:25",
+            "flightNo": "1095"
+        }
+    ],
+    "SubmitInfo": {
+        "SelectSegmentInfo": [
+            {
+                "arvlAirportCode": "OKA",
+                "arvlTime": "1915",
+                "awardSeasonality": "",
+                "boardingDay": "25",
+                "boardingMonth": "11",
+                "boardingYear": "2024",
+                "bookingClass": "L",
+                "carrierCode": "ANA",
+                "childPrice": "",
+                "compartmentClass": "Y",
+                "connectTime": "",
+                "deptAirportCode": "HND",
+                "deptTime": "1625",
+                "fareType": "B00SU",
+                "flightNumber": "1095",
+                "modelCode": "78P",
+                "price": "20300",
+                "waitingFlg": "FALSE"
+            }
+        ]
+    },
+    "sectionDate": "2024年11月25日(月)"
+}
