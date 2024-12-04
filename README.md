@@ -1,5 +1,17 @@
 # u25-scanner
 
+## setup
+```sh
+$ pipenv install
+```
+
+## run
+```sh
+$ pipenv run python main.py
+```
+
+## etc..
+
 主要な空港:
 
 HND: 東京(羽田)
